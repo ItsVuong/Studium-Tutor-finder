@@ -4,7 +4,7 @@ Tutor-finder connects parents seeking qualified tutors for their children with e
 
 ## Use case diagram
 
-https://github.com/ItsVuong/Studium-Tutor-finder/issues/1#issue-2193549426
+![ERD](./database/ERD.drawio.png "Title")
 ## Entitie Relationship Diagrams
 
 
