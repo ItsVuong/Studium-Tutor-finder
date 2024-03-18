@@ -3,8 +3,9 @@ Tutor-finder connects parents seeking qualified tutors for their children with e
 
 
 ## Use case diagram
+![UCD1](./database/usecased1.PNG "Title")
+![UCD1](./database/usecased2.PNG "Title")
 
+## Entity Relationship Diagrams
 ![ERD](./database/ERD.drawio.png "Title")
-## Entitie Relationship Diagrams
-
 
