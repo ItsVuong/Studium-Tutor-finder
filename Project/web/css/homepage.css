@@ -1,0 +1,49 @@
+
+
+#parent-img{
+    max-width: 350px;
+    width: 100%;
+}
+
+.ad-icon{
+    max-width: 100px !important;
+}
+
+.count-icon{
+    max-width: 80px !important;
+}
+
+.subject-list a{
+    margin-bottom: 5px;
+}
+
+.contact-icon{
+    max-width: 70px !important;
+}
+
+.icon-number{
+    background-color: #0a97ba;
+    color: white;
+    border-radius: 50%;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    display: flex; /* or inline-flex */
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.step-item{
+    position: relative;
+    padding-left: 4rem;
+}
+
+.step-ct{
+    padding-top: 5px;
+}
+
+

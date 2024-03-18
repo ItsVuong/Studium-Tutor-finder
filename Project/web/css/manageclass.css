@@ -1,0 +1,17 @@
+.h3_mnclass{
+    color: #666;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.hour:hover{
+    background-color: #80808057
+}
+.selected-time{
+    background-color: #6bff05;
+    color: black;
+    border: 1px solid black;
+}
+.deleted-time{
+    background-color:white
+}

@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.oke{
+    border-radius: 50px;
+    background-color: #f8f9fa;
+    text-decoration: none;
+    display: inline-block;
+}
+header {
+    background-color: #f8f9fa;
+    text-align: left;
+}
+
+nav {
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+.menu a {
+
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 10px;
+}
+
+section {
+    padding: 20px;
+}
+a.button:hover{
+    color:white;
+}
+a.menu {
+    background-color: #f8f9fa;
+    color: #0080ff;
+    text-decoration: none;
+}
+small{
+    text-decoration: none
+}
+.logo{
+    width:90px;
+}
+li{
+    margin-bottom: 10px;
+}
+.do{
+    color: #dc3545;
+}
+
+a.amenu:hover {
+    background-color: #0080ff;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+.manageClassx{
+    color:#1b7dff
+}
+a.head:hover {
+    border-radius: 50px;
+}
+
+/* Thêm các liên kết khác ở đây */
+#loginLink.active,
+#signupLink.active,
+#introduceLink.active,
+#homeLink.active,
+#manageAccountLink.active,
+#tutorLink.active.active,
+#createClassLink.active,
+#acceptTutorLink.active,
+#manageLink.active,
+#classLink.active
+{
+    background-color: #0080ff;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.alert {
+    padding: 20px;
+    background-color: #f44336; 
+    color: white;
+    margin-bottom: 15px;
+}
+
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
